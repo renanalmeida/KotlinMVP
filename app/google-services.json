@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "825099188789",
+    "firebase_url": "https://colecionista-ba003.firebaseio.com",
+    "project_id": "colecionista-ba003",
+    "storage_bucket": "colecionista-ba003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825099188789:android:0a74e2b302fdffa5",
+        "android_client_info": {
+          "package_name": "com.github.colecionista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825099188789-pebmc7l79tmkn69c4bjnbgncb8473l44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.colecionista",
+            "certificate_hash": "dffca7141783130b7438859d535f6263aa6b6a43"
+          }
+        },
+        {
+          "client_id": "825099188789-ssa5olfp54msba6gninh9vnnej2dl2q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOpL9LgHSPGrBvNfA4lxzEy-21S3got2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825099188789-ssa5olfp54msba6gninh9vnnej2dl2q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

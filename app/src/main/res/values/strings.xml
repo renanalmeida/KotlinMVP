@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">colecionista</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="login_sucess_msg">Login feito com successo.</string>
+    <string name="login_fail_msg">Falha ao fazer login na aplicação.</string>
+    <string name="google_login_sucess_msg">Falha ao entrar com a contra do Google</string>
+    <string name="no_image_selected">Nenhuma imagem selecionada.</string>
+    <string name="image_not_found">Imagem não encontrada.</string>
+    <string name="very_large_image">Imagem muito grande, escolha outra.</string>
+    <string name="item_validation_error">Descrição e imagem obrigatórios.</string>
+
+
+</resources>
